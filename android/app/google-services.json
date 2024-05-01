@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655505287912",
+    "project_id": "fir-basics-4a2bc",
+    "storage_bucket": "fir-basics-4a2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655505287912:android:67d3d5e41e38872b91775d",
+        "android_client_info": {
+          "package_name": "com.badarulding73.firebase_learing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AME0AvKt6MSg3zj493qASUet9gdb000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
